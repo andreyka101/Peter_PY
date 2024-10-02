@@ -28,7 +28,6 @@ def run():
 button_1 = Button(text="кнопка", command=run)
 button_1.place(x=200,y=200)
 
-
 root.mainloop()
 
 
